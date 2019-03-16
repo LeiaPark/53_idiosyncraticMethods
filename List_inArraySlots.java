@@ -3,7 +3,6 @@
   integers, double-precision floating point numbers,
   and Strings.
  */
-// test
 
 public class List_inArraySlots {
     private Object[] list = new Object[5];
