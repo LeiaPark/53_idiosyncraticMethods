@@ -2,7 +2,6 @@
  Test list features.
  */
 
-// test
 public class UserOfList {
     private static List_inArraySlots list;
 
